@@ -1,0 +1,37 @@
+This is a ip grabber I coded myself for everyone to love.
+
+you need to hook a server webhook in your discord server, it may work on telegram too
+name the  discord server "ip logger", download visual studio code and python
+
+link:https://www.python.org/downloads/
+
+link:https://code.visualstudio.com/
+
+this grabber you dont even need to have someone turn off the virus protection.
+You can have the *target* keep the virus protection on and still pull.
+once *target* double clicks you will successfully recieve their ip in your server where ever
+you webhooked it.
+
+Enjoy:).
+
+made by Joshua weaver
+
+social media
+@easilyhit on Instagram 
+@flawsflo811921 on snapchat
+@easilyhit on discord
+
+Add me if you are having issues and need some help setting it up
+I usually do payments for setups.
+payment method = Cash App   $4
+sell VPNs and a C2 if you are Interrested hmu.
+
+I will do no charge if you text me on telegram saying *I know you from Github.com
+then the setup will be Free
+
+@https://t.me/easilyhit
+
+cant find it?  type easilyhit on the App.
+
+Copy and paste code into Visual studio code, Run, Start debugging, name it whatever u want and put  it in python. then run it for as it will be a Test
+remember contact me if you are needing Help!.

@@ -1,0 +1,19 @@
+import requests
+
+
+ip = requests.get('https://api.ipify.org').text
+
+
+
+payload = {
+    'content': f'My IP Address is{ip}'
+}
+
+
+response = requests.post('Webhook URL goes here', json=payload)
+
+
+
+if response.status_code ==200:
+
+    print('Message sent successfully')
